@@ -1,0 +1,58 @@
+[
+    {
+        "Id": "01",
+        "Uuid" : "a77a1510-1e29-4b5b-a5fb-1ff454f521aa",
+        "Title" :"Paket Catok",
+        "Description" : "Melayani catok dan styling rambut lurus. Dikerjakan oleh 1 orang stylist untuk satu orang customer",
+        "Foto": "https://acuan.id/_nuxt/image/13b4b1.webp"
+    },
+    {
+        "Id": "02",
+        "Uuid" : "1bf68bb5-707b-41b9-a40b-8095b598981e",
+        "Title" :"Curly Rambut",
+        "Description" : "Curly styling akan dikerjakan oleh hair stylist berpengalaman dengan menggunakan catokan curly merk kirei dan menggunakan vitamin rambut untuk mencegah kerusakan pada rambut",
+        "Foto": "https://diary.marshabeauty.com/media/article_images/None/shutterstock_35481085.jpg"
+    },
+    {
+        "Id": "03",
+        "Uuid" : "dde695ea-c49d-4327-859b-caa0341e7a2b",
+        "Title" :"Creambath",
+        "Description" : "Pada layanan creambath ini customer dapat membawa produk andlannya ke salon. Namun dari pihak salon juga menyediakan berbagai pilihan produk creambath yang bagus dan berkualitas",
+        "Foto": "https://static.republika.co.id/uploads/images/inpicture_slide/perawatan-rambut-_160831064108-113.jpg"
+    },
+    {
+        "Id": "04",
+        "Uuid" : "18780f7b-bcb3-4f83-9131-31bd8cba924e",
+        "Title" :"Coloring Rambut",
+        "Description": "Kami dengan hair stylist akan memberikan rekomendasi terbaik mengenai pewarnaan rambut ini. Mulai dari proses bleaching, pewarnaan, dan penggunaan vitamin untuk menjaga agar rambut tetap sehat",
+        "Foto": "https://www.tresemme.com/content/dam/unilever/tresemme/indonesia/general_image/08-2162230-jpg.jpg"
+    },
+    {
+        "Id": "05",
+        "Uuid" : "34c2f041-810a-42b4-b8fd-730f6467caed",
+        "Title" :"Manicure Pedicure",
+        "Description": "Pilihan manicure padicure ini juga dilengkapi dengan nail art oleh nail artist yang berpengalaman. Terdapat ratusan sample contoh nail art, ratusan pilihan warna serta hiasan untuk kuku",
+        "Foto": "https://diary.marshabeauty.com/media/article_images/None/Manicure_Pedicure_Berapa_Kali_Sebulan_Agar_Kuku_Lebih_Sehat__.jpg"
+    },
+    {
+        "Id": "06",
+        "Uuid" : "b98c05fa-c5ec-4055-90b5-ac75ee4a2bcf",
+        "Title" :"Potong Rambut Anak",
+        "Description": "Nuni's salon juga menerima anak-anak sebagai customer. Dengan treatment yang lembut sehingga tidak membuat anak ketakutan saat akan potong rambut. ",
+        "Foto": "https://www.transafeindonesia.co.id/wp-content/uploads/2020/10/Gaya-Potongan-Rambut-Trap.jpg"
+    },
+    {
+        "Id": "07",
+        "Uuid" : "1b3d1331-31c5-47f4-adc2-10b1296e86cf",
+        "Title" :"Haircut",
+        "Description": "Berbagai pilihan haircut yang kami sediakan serta lebih dari 10 hair stylist yang siap membantu memilihkan haircut paling cocok untuk anda",
+        "Foto": "https://img.freepik.com/premium-photo/hairdresser-cuts-brown-hair-young-woman-beauty-salon_141172-5144.jpg?w=2000"
+    },
+    {
+        "Id": "08",
+        "Uuid" : "5b0c402a-a030-458b-91cb-8b2139f2de9e",
+        "Title" :"Extension Bulu Mata",
+        "Description": "Extention bulu mata tersedia dengan berbagai pilihan untuk jenis extention yang dilakukan. Seperti ketebalan, panjang bulu mata, dan ketahanan bulu mata",
+        "Foto": "https://cashbac.com/blog/wp-content/uploads/2018/08/extension-bulu-mata-2.jpg"
+    }
+]
